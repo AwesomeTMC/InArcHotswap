@@ -1,0 +1,9 @@
+{
+  "Name": "InArcHotswap",
+  "Author": "AwesomeTMC",
+  "Description": "Allows you to swap files within certain .arc archives.",
+  "ModuleDependancies": [
+    "SuperFlag",
+    "PTUtils"
+  ]
+}
