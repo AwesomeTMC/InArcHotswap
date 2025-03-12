@@ -67,7 +67,7 @@ Swapping only happens when the game asks for the file. This could be never, once
 
 # What works?
 This table is a general list of what StationedFileInfo archives can be swapped.
-If anything seems inaccurate, please open an issue on GitHub. Either way, you should test things out yourself to make sure.
+If anything seems inaccurate (or you would like to contribute!), please open an issue on GitHub. Either way, you should test things out yourself to make sure.
 
 This table is based on GLE's StationedFileInfo. There are a bunch of files that appear in "vanilla"'s StationedFileInfo that aren't on here.
 
