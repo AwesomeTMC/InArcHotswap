@@ -119,7 +119,7 @@ Key:
 |`/LayoutData/PlayerLeft.arc`|:question:||
 |`/LayoutData/PointerGuidance.arc`|:question:||
 |`/LayoutData/ResultWindow.arc`|:question:||
-|`/LayoutData/ScenarioSelect.arc`|:question:||
+|`/LayoutData/ScenarioSelect.arc`|:x:||
 |`/LayoutData/SelectButton.arc`|:question:||
 |`/LayoutData/SignBoardBalloon.arc`|:question:||
 |`/LayoutData/StageTitle.arc`|:question:||
@@ -172,7 +172,7 @@ Key:
 |`/ObjectData/ProductMapObjDataTable.arc`|:o:||
 |`/ObjectData/RailPoint.arc`|:o:||
 |`/ObjectData/SaveIconBanner.arc`|:x:|Swap happens before InArcHotswap is initialized.|
-|`/ObjectData/ScenarioSelectSky.arc`|:x:|Might be worth testing with vanilla game?|
+|`/ObjectData/ScenarioSelectSky.arc`|:x:||
 |`/ObjectData/SearchLightCone.arc`|:question:||
 |`/ObjectData/ShadowVolumeCylinder.arc`|:question:||
 |`/ObjectData/ShadowVolumeOval.arc`|:question:||
